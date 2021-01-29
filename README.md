@@ -4,7 +4,7 @@ Digital Image Processing project for haze removal in images
 ## Instructions
 - Clone this repository  
 ```
-git clone https://github.com/karandeepSJ/Image-Dehazing.git
+git clone https://github.com/machine-learning-simplified/Image-Dehazing.git
 ```
 
 - Install dependencies
